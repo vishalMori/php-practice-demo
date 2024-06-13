@@ -1,0 +1,41 @@
+[2024-03-13 06:45:17] : /var/www/mywork/demoWebsite/api/Controller/registration.php : line 87: Phone number must be 10 digits
+[2024-03-13 06:45:51] : /var/www/mywork/demoWebsite/api/Controller/registration.php : line 87: Phone number must be 10 digits
+[2024-03-13 06:46:29] : /var/www/mywork/demoWebsite/api/Controller/registration.php : line 83: User alredy exist.
+[2024-03-13 06:48:53] : /var/www/mywork/demoWebsite/api/Controller/registration.php : line 84: User alredy exist.
+[2024-03-13 06:49:35] : /var/www/mywork/demoWebsite/api/Controller/registration.php : line 84: User alredy exist.
+[2024-03-13 06:50:17] : /var/www/mywork/demoWebsite/api/Controller/registration.php : line 83: User alredy exist.
+[2024-03-13 06:54:36] : /var/www/mywork/demoWebsite/api/Controller/registration.php : line 79: Password and conform password not match.
+[2024-03-14 10:30:43] : /var/www/mywork/demoWebsite/api/Controller/registration.php : line 85: User alredy exist.
+[2024-03-14 10:31:10] : /var/www/mywork/demoWebsite/api/Controller/registration.php : line 85: User alredy exist.
+[2024-03-14 10:31:19] : /var/www/mywork/demoWebsite/api/Controller/registration.php : line 85: User alredy exist.
+[2024-03-14 06:03:21] : /var/www/mywork/demoWebsite/Controllers/auth/login.php : line 66: Link expired
+[2024-03-14 06:03:11] : /var/www/mywork/demoWebsite/Controllers/auth/login.php : line 130: Wait for approval.
+[2024-03-19 09:03:02] : /var/www/mywork/demoWebsite/Middleware/googleLogin.php : line 97: Wait for approval.
+[2024-03-19 06:03:03] : /var/www/mywork/demoWebsite/Controllers/auth/login.php : line 146: Invalid credentials.
+[2024-03-19 06:03:21] : /var/www/mywork/demoWebsite/Controllers/auth/login.php : line 146: Invalid credentials.
+[2024-03-19 06:03:38] : /var/www/mywork/demoWebsite/Controllers/auth/login.php : line 138: Verify your email before login.
+[2024-03-19 06:03:57] : /var/www/mywork/demoWebsite/Controllers/auth/login.php : line 130: Wait for approval.
+[2024-03-19 06:03:12] : /var/www/mywork/demoWebsite/Controllers/auth/login.php : line 126: You are currently unable to log in.
+[2024-03-19 07:03:41] : /var/www/mywork/demoWebsite/Middleware/googleLogin.php : line 97: Wait for approval.
+[2024-03-19 07:03:23] : /var/www/mywork/demoWebsite/Middleware/googleLogin.php : line 99: Wait for approval.
+[2024-03-19 07:03:11] : /var/www/mywork/demoWebsite/Middleware/googleLogin.php : line 99: Wait for approval.
+[2024-03-19 07:03:46] : /var/www/mywork/demoWebsite/Middleware/googleLogin.php : line 100: Wait for approval.
+[2024-03-20 04:03:50] : /var/www/mywork/demoWebsite/Middleware/googleLogin.php : line 100: Wait for approval.
+[2024-03-20 04:03:01] : /var/www/mywork/demoWebsite/Middleware/googleLogin.php : line 100: Wait for approval.
+[2024-03-20 05:03:56] : /var/www/mywork/demoWebsite/Middleware/googleLogin.php : line 105: Wait for approval.
+[2024-03-20 05:03:35] : /var/www/mywork/demoWebsite/Middleware/googleLogin.php : line 105: Wait for approval.
+[2024-03-20 06:03:33] : /var/www/mywork/demoWebsite/Middleware/googleLogin.php : line 105: Wait for approval.
+[2024-03-20 06:03:47] : /var/www/mywork/demoWebsite/Controllers/auth/login.php : line 126: You are currently unable to log in.
+[2024-03-20 06:03:56] : /var/www/mywork/demoWebsite/Controllers/auth/login.php : line 126: You are currently unable to log in.
+[2024-03-20 06:03:20] : /var/www/mywork/demoWebsite/Controllers/auth/login.php : line 126: You are currently unable to log in.
+[2024-04-01 04:04:06] : /var/www/mywork/demoWebsite/Controllers/auth/login.php : line 135: Wrong password.
+[2024-04-01 04:04:35] : /var/www/mywork/demoWebsite/Controllers/auth/login.php : line 147: Invalid credentials.
+[2024-04-01 04:04:55] : /var/www/mywork/demoWebsite/Controllers/Users/registration.php : line 68: Password and conform password not match.
+[2024-04-01 04:04:13] : /var/www/mywork/demoWebsite/Controllers/Users/registration.php : line 68: Password and conform password not match.
+[2024-04-01 04:04:33] : /var/www/mywork/demoWebsite/Controllers/Users/registration.php : line 68: Password and conform password not match.
+[2024-04-01 04:04:27] : /var/www/mywork/demoWebsite/Controllers/Users/registration.php : line 69: Password and conform password not match.
+[2024-04-01 04:04:24] : /var/www/mywork/demoWebsite/Controllers/Users/registration.php : line 68: Password and conform password not match.
+[2024-04-01 05:04:52] : /var/www/mywork/demoWebsite/Controllers/Users/registration.php : line 67: Password and conform password not match.
+[2024-04-01 05:04:25] : /var/www/mywork/demoWebsite/Controllers/Users/registration.php : line 67: Password and conform password not match.
+[2024-04-01 05:04:19] : /var/www/mywork/demoWebsite/Controllers/auth/login.php : line 139: Verify your email before login.
+[2024-04-01 07:04:35] : /var/www/mywork/demoWebsite/Controllers/auth/login.php : line 163: Wrong password.

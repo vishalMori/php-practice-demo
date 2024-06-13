@@ -1,0 +1,10 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "google/apiclient": "^2.12.1",
+        "league/csv": "^9.0",
+        "dompdf/dompdf": "^2.0",
+        "openspout/openspout": "^4.23",
+        "firebase/php-jwt": "^6.10"
+    }
+}
