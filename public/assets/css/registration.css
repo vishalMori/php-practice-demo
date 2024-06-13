@@ -1,0 +1,29 @@
+.container {
+  max-width: 60%;
+  margin-top: 2%;
+  background-color: #f7f7f7;
+}
+
+.con-samll {
+  max-width: 40%;
+  margin-top: 2%;
+  background-color: #f7f7f7;
+}
+
+.center {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 2%;
+}
+
+.form-label {
+  margin-top: 3px;
+}
+
+.bgcolor {
+  background-color: #D24545;
+}
+
+.error {
+  color: #ff0000;
+}

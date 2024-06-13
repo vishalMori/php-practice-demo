@@ -1,0 +1,48 @@
+nav {
+  display: flex;
+  justify-content: flex-end;
+  background-color: #212529;
+}
+
+.hor-center {
+  display: flex;
+  align-items: center;
+}
+
+ul {
+  display: flex;
+  align-items: center;
+  list-style: none;
+}
+
+li {
+  padding: 20px;
+  color: #fff;
+}
+
+i:hover,
+li:hover {
+  color: #ffd700;
+}
+
+.notification {
+  width: 10%;
+  height: 10%;
+  color: #fff;
+}
+
+.image {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #fff;
+}
+
+.logo-image {
+  width: 50px;
+  height: 50px;
+}
+
+.btn {
+  margin: 20px;
+}

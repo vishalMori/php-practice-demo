@@ -1,0 +1,32 @@
+.con-1 {
+  display: flex;
+}
+
+.con-2 {
+  width: 100%;
+}
+
+.con-3 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.con-4 {
+  margin-left: 5px;
+}
+
+.form-check-input:checked {
+  background-color: #0E9700;
+  border-color: #0E9700;
+}
+
+table.dataTable td.dt-type-numeric,
+table.dataTable td.dt-type-date {
+  text-align: left;
+}
+
+.profile {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}

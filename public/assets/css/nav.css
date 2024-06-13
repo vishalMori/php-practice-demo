@@ -1,0 +1,28 @@
+nav {
+  display: flex;
+  justify-content: flex-end;
+  background-color: #212529;
+}
+
+.hor-center {
+  display: flex;
+  align-items: center;
+}
+
+.image {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.btn {
+  margin: 20px;
+}
+
+.logo {
+  font-family: sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 40px;
+  cursor: pointer;
+}

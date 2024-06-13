@@ -1,0 +1,20 @@
+td,
+th {
+  vertical-align: middle;
+}
+
+table.dataTable td.dt-type-numeric {
+  text-align: left;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.wrap {
+  display: inline-block;
+  width: 30%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

@@ -1,0 +1,26 @@
+.con-9 {
+  display: flex;
+  width: fit-content;
+  height: fit-content;
+}
+
+.con-10 {
+  display: flex;
+  padding: 10px;
+  width: fit-content;
+}
+
+.con-11 {
+  color: #fff;
+  font-weight: bold;
+  padding: 10px;
+  background-color: #2271b1;
+}
+
+.btn {
+  color: #fff;
+}
+
+.bg-blue {
+  background-color: #2271b1;
+}
